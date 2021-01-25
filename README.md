@@ -5,7 +5,7 @@ This module will enable a popup phone in Humhub
 In each Space or User profile you can set the phone up to use a different VoIP network using your current provider and basic log-in details
 
 
-*Donations welcome to support our development https://olan.uk/*
+*Donations welcome to support our development https://olan.uk/donate*
 
 
 **Roadmap**
