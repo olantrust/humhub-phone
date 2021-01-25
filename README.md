@@ -11,6 +11,7 @@ In each Space or User profile you can set the phone up to use a different VoIP n
 Donations welcome to support our development https://olan.uk/
 
 ***1.0***
+
 Enable module for Spaces and User profiles
 Set-up log-in for SIP networks
 Click phone icon to launch popup phone dialler
