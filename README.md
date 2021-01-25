@@ -14,8 +14,8 @@ In each Space or User profile you can set the phone up to use a different VoIP n
 
 ***1.0***
 
-Enable module for Spaces and User profiles
-Set-up log-in for SIP networks
-Click phone icon to launch popup phone dialler
-Make and receive calls
-Set 'available', 'silent', and 'off' status for receiving incoming calls
+- Enable module for Spaces and User profiles
+- Set-up log-in for SIP networks
+- Click phone icon to launch popup phone dialler
+- Make and receive calls
+- Set 'available', 'silent', and 'off' status for receiving incoming calls
